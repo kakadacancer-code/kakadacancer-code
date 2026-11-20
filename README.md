@@ -1,4 +1,3 @@
-````md
 <!-- ============================================ -->
 <!--     YAN KAKADA • GITHUB PROFILE README       -->
 <!-- ============================================ -->
@@ -146,7 +145,6 @@ snake workflow and generating the output branch.
     <i>Great products are built one thoughtful commit at a time.</i>
   </p>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1120,50:0E7490,100:7C3AED" />
 
 </div>
 ````
